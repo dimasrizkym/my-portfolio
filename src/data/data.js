@@ -18,7 +18,7 @@ export const projects = [
     category:'frontend project' ,
     dateCreated:'2022',
     stack:'html, css, js, tailwindcss, reactjs'  ,
-    desc:`"The Malaka" stands as a meticulously crafted landing page dedicated to the promotion and sale of Tailwind CSS-themed books, a project that I, as a frontend developer, take great pride in. The visually appealing design, conceptualized by @mhd, highlights my commitment to creating aesthetically pleasing and engaging user interfaces. Unfortunately, I haven't made this project responsive yet`,
+    desc:`"The Malaka" stands as a meticulously crafted landing page dedicated to the promotion and sale of Tailwind CSS-themed books, a project that I, as a frontend developer, take great pride in. The visually appealing design, conceptualized by @mhd(figma), highlights my commitment to creating aesthetically pleasing and engaging user interfaces. Unfortunately, I haven't made this project responsive yet`,
     toPreview:'https://themalaka-ebook.netlify.app/' ,
     toSourceCode:'https://github.com/dimasrizkym/EBook-LandingPage'
   },
