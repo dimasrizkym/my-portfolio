@@ -7,8 +7,8 @@ import { Link } from 'react-router-dom';
 
 const SectionAside = (props) => {
     const handleEmailClick = () => {
-      const emailAddress = 'recipient@example.com';
-      const subject = 'Hello%20World';
+      const emailAddress = 'dimasrizkym3@gmail.com';
+      const subject = 'Subject';
       const body = 'Write your message here.';
   
       const mailtoLink = `mailto:${emailAddress}?subject=${subject}&body=${body}`;
