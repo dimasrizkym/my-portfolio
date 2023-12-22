@@ -22,8 +22,8 @@ const CardProject = (props) => {
           )}
         </div>
         <div className='flex gap-8'>
-          <Link to={toPreview}>Preview</Link>
-          <Link to={toSourceCode}>Source Code</Link>
+          <Link to={toPreview} target='_blank'>Preview</Link>
+          <Link to={toSourceCode} target='_blank'>Source Code</Link>
         </div>
       </div>
     </div>
